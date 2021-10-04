@@ -11,8 +11,7 @@ data_cleaning.R: processes data into dataframes and datatables suited for furthe
 
 summary_statistics.R makes descriptive analysis
 
-plots_.R: makes the ggplot2 plots in the analysis.
+plots.R: makes the ggplot2 plots in the analysis.
 
 exploratory_analysis.R: various helper methods for the analysis.
 
-simulate_data.R: run simulated data robustness checks.
